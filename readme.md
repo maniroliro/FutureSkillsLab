@@ -1,9 +1,12 @@
 # 🧠 FutureSkillsLab  
 
 Autoria:
+```bash
 Guilherme Morais de Assis - RM: 564198
 Rogerio Deligi Filho - RM: 561942
 Maria Fernanda Garavelli Dantas - RM: 562686
+```
+
 
 ---
 
