@@ -83,12 +83,19 @@ Todas as interações são feitas via terminal, com menus e listas numeradas.
 
 Após dar início ao sistema, comece sempre criando um novo perfil(uma pessoa) digitando 1 no terminal, essa é a classe principal do projeto, tendo em vista que todas as outras só existem para ela. Dê a ela um nome e se quiser uma idade;
 
+![image](https://raw.githubusercontent.com/maniroliro/FutureSkillsLab/refs/heads/main/images/step1.png)
+
 Logo em seguida, adicione uma competência digitando 2 no terminal, e escolha a desejada junto ao seu grau. As competências são separadas em 2 grupos, técnica e comportamental, isso para facilitar a visualização de todas elas. Repita esse passo quantas vezes se julgar necessário e até ter um perfil bem estruturado;
+
+![image](https://raw.githubusercontent.com/maniroliro/FutureSkillsLab/refs/heads/main/images/step2.png)
 
 Com isso você já consegue visualizar quais carreiras o programa julga ser pertinente para o perfil criado, basta digitar no terminal o número 4;
 
+![image](https://raw.githubusercontent.com/maniroliro/FutureSkillsLab/refs/heads/main/images/step3.png)
+
 Há também outras opções como "Sugerir trilha para carreira", que mostra quais competências devem ser melhoradas para uma área específica, "Selecionar / Mudar Perfil", para mudar o perfil a ser analisado e "Mostrar perfil atual", que mostra as competências e nível delas, dê uma explorada nessas funções!
 
+![image](https://raw.githubusercontent.com/maniroliro/FutureSkillsLab/refs/heads/main/images/step4.png)
 
 ---
 
